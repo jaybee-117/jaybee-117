@@ -1,4 +1,4 @@
-<h1 align = "center">Hi! :wave: fellow stranger! :heart:</h1>
+<h1 align = "center">Hi! :wave: nice to see you here! :heart:</h1>
 <h3 align = "center">I'm JayBee and glad to see you find your way here</h3>
 
 - 🌱 I’m an Electronics major dabbling in Verilog and MATLAB
