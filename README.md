@@ -3,7 +3,7 @@
 
 - 🌱 I’m an Electronics major dabbling in Verilog and MATLAB
 - 🔭 Currently working on Lens-free microscopy using Raspberry Pi
-- 📫 Feel free to send me a DM over on my Twitter [@jaybee_is_a_me](https://twitter.com/JayBee_is_a_me)
+- 📫 Feel free to send me a DM over on my Discord [JayBee.#6121](https://discordapp.com/users/JayBee.#6121)
 
 <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybee-117&layout=compact&theme=dracula&hide=css,tcl,html,makefile,javascript,D"></img>
 <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=jaybee-117&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"></img>
